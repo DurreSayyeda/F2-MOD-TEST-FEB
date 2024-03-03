@@ -3,6 +3,8 @@ For Email - make an onChange function to check if the value of input has more th
 Similarly Password should be more than 8 characters, make an onChange function for the same.
 As soon as the email and password pass the check make sure to remove the red errors and show a green text saying all good to go.
 On click of the submit button throw a confirmation window and if the user presses okay, then throw an alert saying successful signup!
-Else redirect them to the same page and clear all the input values.
+Else redirect them to the same page and clear all the input values.!
+[Screenshot 2024-03-03 140913](https://github.com/DurreSayyeda/F2-MOD-TEST-FEB/assets/30121041/c23cceee-ab03-4c8b-89af-a3427d487551)
+
 Figma Link: https://www.figma.com/file/8az10wuWTDI72TAN9X4Jyd/Untitled?node-id=0%3A1&t=Nee9Cr5szY15Pw4y-1
 
